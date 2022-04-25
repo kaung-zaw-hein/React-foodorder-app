@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Practice Code Challenge - Food Order APP (1/30)
+![image](https://user-images.githubusercontent.com/62888962/165102161-4413ee60-949b-4290-b2d3-63a405e84ba8.png)
+![image](https://user-images.githubusercontent.com/62888962/165102252-322ebadb-0b5f-405d-bc94-93b6a5881ea2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
