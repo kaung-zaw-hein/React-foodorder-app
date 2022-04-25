@@ -13,6 +13,7 @@
 }
 
 .contact .rightSide {
+  background: white;
   height: 100%;
   flex: 50%;
   display: flex;
@@ -28,7 +29,7 @@
   margin-left: 30px;
 }
 
-form {
+.contactform {
   display: flex;
   flex-direction: column;
   width: auto;
@@ -36,7 +37,7 @@ form {
   padding: 30px;
 }
 
-form input {
+.contactform input {
   height: 40px;
   width: 80%;
   border: none;
@@ -44,7 +45,7 @@ form input {
   color: black;
 }
 
-form textarea {
+.contactform textarea {
   margin-top: 15px;
   height: 70px;
   width: 80%;
@@ -58,7 +59,7 @@ textarea::placeholder {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
-form input:focus,
+.contactform input:focus,
 textarea:focus {
   outline: none;
 }

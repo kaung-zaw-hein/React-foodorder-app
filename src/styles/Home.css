@@ -13,6 +13,7 @@
 
 .headerContainer {
   width: auto;
+  color: rgb(255, 255, 255);
   margin-left: 50px;
 }
 
@@ -22,32 +23,30 @@
   font-size: 90px;
   height: 60px;
   font-weight: 50;
-  color: black;
 }
 
 .headerContainer p {
   padding: 0;
   font-size: 40px;
   font-weight: lighter;
-  color: black;
 }
 
 .headerContainer button {
-  color: black;
+  color: #121619;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   justify-content: center;
-  background-color: #121619;
+  background-color: #ffffff;
   height: 50px;
   width: 180px;
-  color: white;
   text-decoration: none;
   font-size: 20px;
 }
 
 .headerContainer button:hover {
   background-color: #07090a;
+  color:aliceblue;
   cursor: pointer;
   transition: 0.3s ease-in;
 }

@@ -23,15 +23,28 @@
 }
 
 .aboutBottom p {
-  width: 1200px;
+  width: 80%;
+  color: white;
+  text-align: center;
+  font-weight: 200;
+  font-size: 25px;
 }
 
 .about .aboutBottom h1 {
   font-weight: 400;
+  text-align: center;
   font-size: 70px;
-  color: black;
+  color: rgb(255, 255, 255);
   height: 30px;
   display: flex;
   justify-content: center;
   transform: translateY(-40px);
+}
+@media only screen and (max-width: 800px) {
+  .about .aboutBottom h1{
+    font-size:1.5em;
+  }
+  .aboutBottom p{
+    font-size:1em;
+  }
 }
